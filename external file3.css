@@ -1,0 +1,27 @@
+p{
+	font-size: 50px;
+	color: red;
+}
+div{
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+}
+*{
+	font-size: 40px;
+	color: green;
+	font-family: cursive;
+}
+
+input[type]{
+	color:yellow;
+}
+input[tyoe="text"]{
+	color: red;
+}
+input[type="number"]{
+	color: blue;
+}
+a[href]{
+	background-color: pink;
+}
